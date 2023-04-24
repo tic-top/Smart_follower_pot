@@ -1,0 +1,11 @@
+../Core/Src/my_touch.c:7:5:TouchRead	24	static
+../Core/Src/my_touch.c:19:6:Touch_Init	24	static
+../Core/Src/my_touch.c:32:7:Read_axis	64	static
+../Core/Src/my_touch.c:46:7:Read_mois	64	static
+../Core/Src/my_touch.c:59:6:X_Init	8	static
+../Core/Src/my_touch.c:71:6:Y_Init	8	static
+../Core/Src/my_touch.c:83:6:MX_GPIO_InitX	32	static
+../Core/Src/my_touch.c:114:6:MX_GPIO_InitY	32	static
+../Core/Src/my_touch.c:145:6:Error_Handler1	4	static,ignoring_inline_asm
+../Core/Src/my_touch.c:154:5:compare	16	static
+../Core/Src/my_touch.c:158:7:median	16	static
