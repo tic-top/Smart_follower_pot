@@ -1,0 +1,5 @@
+motor.c:11:6:move_forward	1
+motor.c:19:6:move_backward	1
+motor.c:27:6:move_left	1
+motor.c:35:6:move_right	1
+motor.c:43:6:move_stop	1

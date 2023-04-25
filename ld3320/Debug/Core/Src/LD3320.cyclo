@@ -1,0 +1,17 @@
+LD3320.c:32:9:SPI_RreadWrite_Data	1
+LD3320.c:39:6:LD3320_main	9
+LD3320.c:90:6:LD3320_Init	1
+LD3320.c:101:6:User_Modification	7
+LD3320.c:193:6:LD_Reset	1
+LD3320.c:214:6:LD_Init_Common	2
+LD3320.c:261:6:LD_Init_ASR	1
+LD3320.c:290:6:ProcessInt	6
+LD3320.c:331:9:LD_Check_ASRBusyFlag_b2	3
+LD3320.c:353:6:LD_AsrStart	1
+LD3320.c:363:9:LD_AsrRun	2
+LD3320.c:398:9:LD_AsrAddFixed	5
+LD3320.c:496:9:RunASR	4
+LD3320.c:529:9:LD_GetResult	1
+LD3320.c:535:6:LD_WriteReg	1
+LD3320.c:598:9:LD_ReadReg	1
+LD3320.c:669:6:HAL_GPIO_EXTI_Callback	3

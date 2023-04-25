@@ -1,0 +1,17 @@
+../Core/Src/LD3320.c:32:9:SPI_RreadWrite_Data	56	dynamic
+../Core/Src/LD3320.c:39:6:LD3320_main	24	static
+../Core/Src/LD3320.c:90:6:LD3320_Init	4	static
+../Core/Src/LD3320.c:101:6:User_Modification	16	static
+../Core/Src/LD3320.c:193:6:LD_Reset	8	static
+../Core/Src/LD3320.c:214:6:LD_Init_Common	8	static
+../Core/Src/LD3320.c:261:6:LD_Init_ASR	8	static
+../Core/Src/LD3320.c:290:6:ProcessInt	16	static
+../Core/Src/LD3320.c:331:9:LD_Check_ASRBusyFlag_b2	16	static
+../Core/Src/LD3320.c:353:6:LD_AsrStart	8	static
+../Core/Src/LD3320.c:363:9:LD_AsrRun	8	static
+../Core/Src/LD3320.c:398:9:LD_AsrAddFixed	120	static
+../Core/Src/LD3320.c:496:9:RunASR	16	static
+../Core/Src/LD3320.c:529:9:LD_GetResult	8	static
+../Core/Src/LD3320.c:535:6:LD_WriteReg	24	static
+../Core/Src/LD3320.c:598:9:LD_ReadReg	24	static
+../Core/Src/LD3320.c:669:6:HAL_GPIO_EXTI_Callback	16	static
